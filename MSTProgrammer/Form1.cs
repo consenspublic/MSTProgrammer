@@ -12,7 +12,7 @@ using System.Windows.Forms;
 // classes are needed for the regex registry search functions see http://stackoverflow.com/questions/14991517/how-do-i-get-serial-port-device-id
 using System.Text.RegularExpressions;
 using Microsoft.Win32;
-
+// added comment for git testing
 namespace WindowsFormsApplication1
 {
     public partial class MH482 : Form
